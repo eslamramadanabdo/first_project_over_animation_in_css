@@ -1,0 +1,444 @@
+
+
+
+.di{
+    width: 100%;
+    height: auto;
+    z-index: 999;
+    position: absolute;
+    margin: auto;
+    
+}
+.all{
+    width: 4%;
+    height: 0vh;
+    margin: 1px;
+   float: left;
+    border-bottom-right-radius: 40px;
+    border-bottom-left-radius: 40px ;
+    animation-name: allanime;
+    animation-duration: 2s;
+    animation-iteration-count: 1;
+    
+    
+
+
+}
+
+@keyframes allanime {
+    2%{
+        height: 98vh;
+    }
+
+    4%{
+        height: 96vh;
+    }
+    
+    6%{
+        height: 94vh;
+    }
+
+    8%{
+        height: 92vh;
+    }
+    10%{
+        height: 90vh;
+    }
+
+    12%{
+        height: 88vh;
+    }
+
+    14%{
+        height: 86vh;
+    }
+    
+    16%{
+        height: 84vh;
+    }
+
+    18%{
+        height: 82vh;
+    }
+    20%{
+        height: 80vh;
+    }
+
+
+
+
+
+
+    22%{
+        height: 78vh;
+    }
+
+    24%{
+        height: 76vh;
+    }
+    
+    26%{
+        height: 74vh;
+    }
+
+    28%{
+        height: 72vh;
+    }
+    30%{
+        height: 70vh;
+    }
+
+    32%{
+        height: 68vh;
+    }
+
+    34%{
+        height: 66vh;
+    }
+    
+    36%{
+        height: 64vh;
+    }
+
+    38%{
+        height: 62vh;
+    }
+    40%{
+        height: 60vh;
+    }
+
+
+
+
+
+    /* ////////////// */
+
+    42%{
+        height: 58vh;
+    }
+
+    44%{
+        height: 56vh;
+    }
+    
+    46%{
+        height: 54vh;
+    }
+
+    48%{
+        height: 52vh;
+    }
+    
+    
+    50%{
+        height: 50vh;
+    }
+
+    52%{
+        height: 48vh;
+    }
+
+    54%{
+        height: 46vh;
+    }
+    
+    56%{
+        height: 44vh;
+    }
+
+    58%{
+        height: 42vh;
+    }
+    60%{
+        height: 40vh;
+    }
+
+
+
+
+
+
+    62%{
+        height: 38vh;
+    }
+
+    64%{
+        height: 36vh;
+    }
+    
+    66%{
+        height: 34vh;
+    }
+
+    68%{
+        height: 32vh;
+    }
+    70%{
+        height: 30vh;
+    }
+
+    72%{
+        height: 28vh;
+    }
+
+    74%{
+        height: 26vh;
+    }
+    
+    76%{
+        height: 24vh;
+    }
+
+    78%{
+        height: 22vh;
+    }
+    80%{
+        height: 20vh;
+    }
+
+
+    82%{
+        height: 18vh;
+    }
+
+    84%{
+        height: 16vh;
+    }
+    
+    86%{
+        height: 14vh;
+    }
+
+    88%{
+        height: 12vh;
+    }
+    90%{
+        height: 10vh;
+    }
+
+    92%{
+        height: 8vh;
+    }
+
+    94%{
+        height: 6vh;
+    }
+    
+    96%{
+        height: 4vh;
+    }
+
+    98%{
+        height: 2vh;
+    }
+    100%{
+        height: 0vh;
+    }
+}
+
+.div1{
+
+    background-color: yellow;
+
+
+}
+
+.div2{
+    background-color: turquoise;
+ 
+}
+.div3{
+    background-color:royalblue;
+}
+
+.div4{
+    background-color: black;
+}
+.div5{
+    background-color: blue;
+}
+.div6{
+    background-color: rebeccapurple;
+}
+.div7{
+    background-color: rgb(66, 241, 43);
+}
+
+.div8{
+    background-color: rgb(0, 44, 40);
+}
+.div9{
+    background-color: rgb(124, 77, 77);
+}
+
+.div10{
+    background-color: turquoise;
+}
+
+
+.div11{
+
+    background-color: yellow;
+}
+
+.div12{
+    background-color: turquoise;
+}
+.div13{
+    background-color:royalblue;
+}
+
+.div14{
+    background-color: black;
+}
+.div15{
+    background-color: blue;
+}
+.div16{
+    background-color: rebeccapurple;
+}
+.div17{
+    background-color: rgb(66, 241, 43);
+}
+
+.div18{
+    background-color: rgb(0, 44, 40);
+}
+.div19{
+    background-color: rgb(124, 77, 77);
+}
+
+.div20{
+    background-color: turquoise;
+}
+
+.container{
+    width: 90%;
+    height: auto;
+  
+    text-align: center;
+    margin: auto;
+}
+
+.container .nav{
+    width: 100%;
+    height: 44px;
+    background-color: rgb(90, 40, 228);
+    margin: 20px 0px;
+    padding: 10px; 
+}
+
+
+
+.container .nav  ul{
+    background-color: red;
+
+}
+
+.container .nav ul li{
+    list-style-type: none;
+    float: right;
+    padding: 0px 20px;
+    outline: none;
+    
+
+
+}
+
+.container .nav ul li a{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+
+
+}
+
+.container .head{
+    color: white;
+    background-color:tomato;
+    width: 60%;
+    margin: auto;
+    border-radius: 20px;
+    padding: 5px;
+
+}
+.profile {
+    width: 22%;
+    height: 400px;
+    margin-top: 40px;
+    background-image: url(../img/5.jpg);
+    background-size: 100% 100%;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    float: left;
+    margin: 18px;
+
+    animation-name: anime;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes anime{
+    20%{
+        background-image: url(../img/1.jpg);
+    }
+
+    40%{
+        background-image: url(../img/2.jpg);
+    }
+
+    60%{
+        background-image: url(../img/3.jpg);
+    }
+
+    80%{
+        background-image: url(../img/4.jpg);
+    }
+
+
+
+}
+.caption {
+    width: 100%;
+    height: 100%;
+   
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    color: white;
+    top: 100%;
+    right: 100%;
+    transition: all 1s;
+    
+}
+
+.profile:hover .caption{
+    top: 0px;
+    right: 0px;
+    transform: rotate(360deg);
+}
+.container .caption h1 {
+    padding: 20px 0px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.caption p {
+    padding: 0px 10px;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.caption button {
+    width: 60%;
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: gray;
+    border-radius: 20px;
+    border: 1px solid black;
+    box-shadow: 10px 10px 10px white;
+}
